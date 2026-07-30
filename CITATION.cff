@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+
+title: "OWC-BEM-Nonlinear-PTO"
+
+message: "If you use this software, please cite it."
+
+authors:
+  - family-names: Reyes
+    given-names: Clint
+    orcid: https://orcid.org/XXXX-XXXX-XXXX-XXXX
+
+version: 1.0.0
+
+date-released: 2026-07-29
+
+license: MIT
+
+doi: 10.5281/zenodo.xxxxx
+
+repository-code: https://github.com/YOURNAME/OWC-BEM-Nonlinear-PTO
