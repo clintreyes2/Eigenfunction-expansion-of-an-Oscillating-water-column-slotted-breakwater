@@ -1,13 +1,13 @@
 cff-version: 1.2.0
 
-title: "OWC-BEM-Nonlinear-PTO"
+title: "Eigenfunction expansion of a dual-function oscillating water column-slotted breakwater"
 
 message: "If you use this software, please cite it."
 
 authors:
   - family-names: Reyes
-    given-names: Clint
-    orcid: https://orcid.org/XXXX-XXXX-XXXX-XXXX
+    given-names: Clint C.M.
+    orcid: https://orcid.org/0000-0002-7500-1265
 
 version: 1.0.0
 
@@ -15,6 +15,6 @@ date-released: 2026-07-29
 
 license: MIT
 
-doi: 10.5281/zenodo.xxxxx
+doi: 10.5281/zenodo.21700609
 
-repository-code: https://github.com/YOURNAME/OWC-BEM-Nonlinear-PTO
+repository-code: https://github.com/clintreyes2/Eigenfunction-expansion-of-an-Oscillating-water-column-slotted-breakwater
