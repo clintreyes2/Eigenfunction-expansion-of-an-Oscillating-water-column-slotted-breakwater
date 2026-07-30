@@ -1,6 +1,6 @@
 # Eigenfunction-expansion-of-an-Oscillating-water-column-slotted-breakwater
 
-[[DOI](https://zenodo.org/badge/1317025962.svg)](https://doi.org/10.5281/zenodo.21700609)
+[![DOI](https://zenodo.org/badge/1317025962.svg)](https://doi.org/10.5281/zenodo.21700609)
 
 Code accompanying the paper
 
