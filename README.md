@@ -31,13 +31,7 @@ git clone https://github.com/clintreyes2/Eigenfunction-expansion-of-an-Oscillati
 
 If you use this software, please cite
 
-Reyes, C.C.M. 
-
-Eigenfunction expansion of a dual-function oscillating water column-slotted breakwater.
-
-Zenodo
-
-DOI: [https://doi.org/10.5281/zenodo.21700609](https://doi.org/10.5281/zenodo.21700609)
+Reyes, C.C.M. Eigenfunction expansion of a dual-function oscillating water column-slotted breakwater. Zenodo DOI: [https://doi.org/10.5281/zenodo.21700609](https://doi.org/10.5281/zenodo.21700609)
 
 and the accompanying [Ocean Engineering paper](https://www-sciencedirect-com.eres.library.manoa.hawaii.edu/science/article/pii/S0029801826030568?via%3Dihub).
 
